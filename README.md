@@ -31,6 +31,9 @@ yarn build
 https://haziqothman.github.io/country-explorer/
 ```
 
-### Screenshot
+### Screenshots
 
-!{test}(malaysia.png)
+![Malaysia](screenshots/malaysia.png)
+![DarkMode](screenshots/darkmode.png)
+![View](screenshots/view.png)
+![All](screenshots/all.png)
